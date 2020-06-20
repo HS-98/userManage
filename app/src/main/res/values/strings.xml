@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">userManage</string>
+    <string name="login">用户登录</string>
+    <string name="register">用户注册</string>
+    <string name="tv_username">用户:</string>
+    <string name="tv_password">密码:</string>
+    <string name="tven_password">确认密码:</string>
+    <string name="bt_log">登录</string>
+    <string name="bt_reg">注册</string>
+    <string name="et_username">输入用户名</string>
+    <string name="et_password">输入密码</string>
+    <string name="en_password">确认密码:</string>
+    <string name="dologin">恭喜登录成功！</string>
+</resources>
